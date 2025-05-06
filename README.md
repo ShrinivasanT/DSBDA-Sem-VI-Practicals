@@ -1,4 +1,7 @@
 ## 🚀 Starting Jupyter Notebook in Linux
+Make sur jupyter notebook is installed if not:
+
+    pip install notebook
 
 ### Open a terminal.
 ### Run the following command:
